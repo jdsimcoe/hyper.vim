@@ -1,4 +1,6 @@
-![hyper-logo](https://github.com/zeit/art/raw/525bd1bb39d97dd3b91c976106a6d5cc5766b678/hyper/repo-banner.png)
+![hyper.vim logo](https://user-images.githubusercontent.com/82411321/221421271-213938b7-ad52-41e5-bd82-32aba13b6131.png)
+
+
 
 # Hyper for [Vim](http://vim.org)
 
